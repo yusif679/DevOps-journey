@@ -1,1 +1,4 @@
-My DevOps Journey A growing collection of everything I'm learning and building on my path into DevOps. From Linux and Python to Git, automation, cloud, CI/CD, containers, and infrastructure, this repository captures the knowledge, projects, certifications, and hands-on experience I gain along the way. Learn → Practice → Build → Improve.
+My DevOps Journey
+A growing collection of everything I'm learning and building on my path into DevOps.
+From Linux and Python to Git, automation, cloud, CI/CD, containers, and infrastructure, this repository captures the knowledge, projects, certifications, and hands-on experience I gain along the way.
+Learn → Practice → Build → Improve.
